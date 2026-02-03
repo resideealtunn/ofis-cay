@@ -1,0 +1,4 @@
+# GitHub dil istatistiklerinde platform (C++) kodunu "harici" say;
+# asıl proje dili Dart olarak görünsün.
+windows/** linguist-vendored
+linux/** linguist-vendored
